@@ -1,5 +1,13 @@
-# Project 0: Introduction and Fundamentals
-## Titanic Survival Exploration
+# Titanic Survival Exploration
+The main objective of this project is to explore the 1912 Titanic data and to create decision functions that attempt to predict survival outcomes based on each passenger’s features, such as sex and age.
+
+### Back ground
+
+The sinking of RMS Titanic is one of the tragic marine disaster in the history. In the early morning of April 15, 1912, the titanic sunk after colliding with an iceberg during her maiden voyage. This shipwreck killed more than 1,500 out of the estimated 2,224 passengers and crew aboard.
+
+One of the reasons that the Titanic shipwreck led to such a loss was that there were not enough lifeboats for the passengers and crew. However, some groups of people (such as women, children, the upper-class etc...) were more likely to survive than the others.
+
+## Software Requirements
 
 ### Install
 
@@ -47,3 +55,5 @@ The dataset used in this project is included as `titanic_data.csv`. This dataset
 - `fare` : Passenger Fare
 - `cabin` : Cabin
 - `embarked` : Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+
+This project is a part of the Machine Learning Engineer Nanodegree program at [Udacity](https://www.udacity.com/).
